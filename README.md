@@ -1,45 +1,41 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome USER_NAME,
+# To Press
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+## Clay impressions
 
-## Gitpod Reminders
+[View the live project in GitHub Pages](https://github.com/Marta44/topress2019)
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This is a user-centric static website for Elisabetta Schiavini and Sabrina Cardani, two ceramic artists based in Italy. As the artists are Italian, the website has both an English and Italian version.
+It is designed to be responsive on dextop screens, tablets and smartphones. 
+Their ceramics and artworks are not expensive and accessible to everyone but the main difference from others common goods is that are personalized, customized and unique.
+For this website adopting a B2C strategy, that aims to trigger the customer to an impulsive purchase and follows the rule of three steps to accomplish this, is not appropriate. 
+For this reason the website wants to lead the customers to get in touch with the artists through a contact form following a linear and clear path. The website wants to be transparent showing the prices of artworks and ceramic lessons. The main goal of the website is to sell the creations of the artists but at the same time generate an online presence for these two artists and build trust among potential customers or followers on social media pages.
 
-`python3 -m http.server`
+## User Experience (UX)
 
-A blue button should appear to click: *Make Public*,
+### User Stories
 
-Another blue button should appear to click: *Open Browser*.
+#### The *Target Audience* of the business is:
+* English or Italian speaker.
+* Lives in Italy (if wants to attend art classes).
+* Ceramic and Art lover.
+* Every person who wants to make a bespoke gift to someone.
+* A Parent who wants to enroll his/her child(ren) to art classes.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+#### First time visitors are looking for:
+* Ceramic lessons.
+* A bespoke and unique gift.
+* An artistic collaboration.
 
-A blue button should appear to click: *Make Public*,
+#### Returning visitors are looking for:
+* Contact again the artists to buy their artworks.
+* Contact again the artists to book a ceramic lesson.
+* New creations, new series or a new collection.
+* Update regarding the art lessons.
 
-Another blue button should appear to click: *Open Browser*.
+#### Frequent visitors are looking for:
+* Stay updated about the artists creations and work.
+* Follow the artists on social media pages.
+* Place another order contacting the artists.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
