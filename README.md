@@ -62,9 +62,9 @@ The customers goals of this website are:
 ## Scope
 I want to offer to the users an overview of the artists mission, artworks and portfolio. The scope of this project is to keep them interested and engaged until they make the decision to get in touch with the artists filling a contact form.
 Following a Minimal Viable Product (MVP) scheme this website wants to accomplish:
-* clearity
-* simplicity
-* respect users expectations and confidence
+* Clarity
+* Simplicity
+* Respect users expectations and confidence
 
 ## Structure
 In the 'About Us' section is provided a downloadable PDF version of the artists' CV/portfolio that gets opened in another tab.
@@ -100,9 +100,23 @@ The images have been carefully selected to be eye-catching and appealing. The pu
 ---
 
 ## Features
+### Existing Features
+* Five different and individual pages.
+* On every page is present a header logo of the business brand, if clicked brings the user back to the landing page as they expect.
+* On every page is present a header navigation bar, fixed and centered, that allows the user to navigate easily through the different sections.
+* On every page is present a fixed footer, which provides business copyright info and social media pages icons, if clicked bring the user to social media platforms opened on a different tab.
+* On every page is present a call to action button which lead the user to the next step and section.
+* On the landing page is present a promotional video of the artists in their studio. It keeps the users engaged and invites them looking through the website's contents as much time as possible.
+* On the gallery page is present a preview of the artworks, if clicked opens a fancybox viewer which enlarge and zoom the image and allows to move back and forward throught the images.
+* On the contact page is present a form which allows users to place an order, book a lesson, get in touch with the artists and upload images or files of their request.
+
+### Features to add in future
 ---
 ## Technologies Used
 ### Languages Used
-1. HTML
-2. CSS
-3. Bootstrap 4
+1. HTML [HTML5](https://en.wikipedia.org/wiki/HTML5)
+2. CSS [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries and Programs Used
+1. Bootstrap 4 [BootstrapCDN](https://getbootstrap.com/docs/4.0/getting-started/download/#bootstrapcdn) : Bootstrap was used to provide responsiveness on all device sizes and add some stylistic elements.
+2. 
