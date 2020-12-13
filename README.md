@@ -84,18 +84,18 @@ The footer is constant through the pages and offer links to the artists' Social 
 
 It plays with neutral light colours which revoke earth-tones and clay's hues:
 
-* I choose a soft pink (#) for backgrounds.
-* I used a gray (#) for body-text to make it outstanding and in contrast.
-* I choose off-white (#fafafa) for the navigation bar adding a transition (when the mouse hover over the text) that turns it into a darker pink (#).
-* I used a darker gray (#) for headings.
+* I've chosen a soft pink (#) for backgrounds.
+* I've used a gray (#) for body-text to make it outstanding and in contrast.
+* I've chosen off-white (#fafafa) for the navigation bar adding a transition (when the mouse hover over the text) that turns it into a darker pink (#).
+* I've used a darker gray (#) for headings.
 
 **Typography**
-*
-*
+* "Fredericka the Great" font ("Exo" as fallback font) for headings. I've chosen this font for its artistic and clear aspect.
+* "Josefin Slab" font ("Montserrat" as fallback font) for body content. I've chosen this font for its elegant design.
 
 **Imagery**
 
-The images selection 
+The images have been carefully selected to be eye-catching and appealing. The purpose is to showcase the most recent and important pieces created by the artists. 
 
 ---
 
