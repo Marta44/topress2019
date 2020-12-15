@@ -11,8 +11,8 @@
 This is a user-centric static website for Elisabetta Schiavini and Sabrina Cardani, two ceramic artists based in Italy. As the artists are Italian, the website has both an English and Italian version.
 It is designed to be responsive on all devices (desktop screens, tablets and smartphones). 
 Their ceramics and artworks are not expensive, their products are accessible to everyone. What separates *To Press* products from their competitors is that they are tailored to the customers specifics needs. 
-I will not be adopting a B2C strategy for this website. The reason for this is because B2C aims to trigger the customer to make an impulsive purchase using the rule of three steps. I have decided this is not appropriate for this project. 
-The website aims allow customer/s to get in touch with the artists by using a contact form that is clear and accessible. The website aims to be transparent showing the prices of artworks and ceramics. The main goal of the website is to sell the creations of the artists, whilst at the same time generate an online presence that also builds trust among potential customers or followers on social media pages.
+I will not be adopting a B2C strategy for this website. A B2C website aims to trigger the customer to make an impulsive purchase using a three steps rule of thumb. I have decided this is not appropriate for this artistic project. 
+The website aims to allow customer/s to get in touch with the artists by using a contact form that is clear and accessible. The website aims to be transparent showing the prices of artworks and ceramics. The main goal of the website is to sell the creations of the artists, whilst generates an online presence that also builds trust among potential customers or followers on social media pages.
 
 ## User Experience (UX)
 
@@ -96,7 +96,7 @@ It plays with neutral light colours which invoke earth-tones and clay's hues:
 
 **Imagery**
 
-The images have been carefully selected to be eye-catching and appealing. The purpose is to showcase the most recent and important pieces created by the artists. The artists also want the images to clearly show that is possible to personalize the product/object on request.
+The images have been carefully selected to be eye-catching, appealing and compelling. The purpose is to showcase the most recent and important pieces created by the artists. The artists also want the images to clearly show that is possible to personalize the product/object on request.
 
 ---
 
@@ -115,7 +115,7 @@ The images have been carefully selected to be eye-catching and appealing. The pu
 * The contact form submission button has to be functional when pressed and provide a feedback to the users (Javascript needed).
 * Add CAPTCHA, a challenge-response authentication, to the contact form to block spammers and bots (Javascript needed).
 * Add General Data Protection Regulation (GDPR), which protects the Privacy Policy of European Union residents (Javascript needed).
-* Add "Art and ceramic lessons" page. This is a further opportunity for the artists to gain a different income but they need time to organize this activity and its programme.
+* Add "Art and ceramic lessons" page. This is a further opportunity for the artists to gain a different income but they need time to organize this activity and feature its programme.
 ---
 ## Technologies Used
 ### Languages Used
@@ -123,5 +123,16 @@ The images have been carefully selected to be eye-catching and appealing. The pu
 2. CSS [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### Frameworks, Libraries and Programs Used
-1. Bootstrap 4 [BootstrapCDN](https://getbootstrap.com/docs/4.0/getting-started/download/#bootstrapcdn) : Bootstrap was used to provide responsiveness on all device sizes and add some stylistic elements.
-2. 
+1. [BootstrapCDN](https://getbootstrap.com/docs/4.0/getting-started/download/#bootstrapcdn) : was used to provide responsiveness on all device sizes and add some stylistic components.
+2. [Hover.css](https://ianlunn.github.io/Hover/) : was used to add the transition effect to Social Media Links in the footer and to the navbar's text. 
+3. [FontAwesome](https://fontawesome.com/) : was used to add icons for Social Media links.
+4. [Google Fonts](https://fonts.google.com/) : was used to import typography fonts.
+5. [Balsamiq](https://balsamiq.com/) : was used to create wireframes during the design of the layout.
+6. [jQuery](https://jquery.com/) : was used to make the navbar responsive.
+7. [Popper.js](https://popper.js.org/) : was used to make the navbar responsive.
+8. [AutoPrefixer](https://autoprefixer.github.io/) : was used to analyse the CSS code and make it suitable for all browsers.
+9. [fancybox](https://fancyapps.com/fancybox/3/) : was used in the "Gallery" page to view and browse images easily.
+10. [Gitpod](https://gitpod.io/) : is the open-source IDE (Integrated Development Environment) that I used to create my project.
+11. [Git](https://git-scm.com/) : was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub.
+12. [GitHub](https://github.com/) : is a hosting platform used to deploy and store the project code after being pushed from Git.
+---
