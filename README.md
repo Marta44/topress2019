@@ -12,7 +12,7 @@ This is a user-centric static website for Elisabetta Schiavini and Sabrina Carda
 As the artists are Italian, the website has both an English and Italian version.
 It is designed to be responsive on all devices (desktop screens, tablets and smartphones). 
 Their ceramics and artworks are not expensive, their products are accessible to everyone. What separates *To Press* products from their competitors is that they are tailored to the customers specifics needs. 
-I will not be adopting a B2C strategy for this website. A B2C website aims to trigger the customer to make an impulsive purchase using a three steps rule of thumb. I have decided this is not appropriate for this artistic project. The businness goal is to establish an individual relationship with the client diversifying its offer. This increases customer satisfation. The client buying an exclusive and unique product feels to be important and special.
+I will not be adopting a B2C strategy for this website. A B2C website aims to trigger the customer to make an impulsive purchase using a three steps rule of thumb. I have decided this is not appropriate for this artistic project. The business goal is to establish an individual relationship with the client diversifying its offer. This increases customer satisfaction. The client buying an exclusive and unique product feels to be important and special.
 The website aims to allow customer/s to get in touch with the artists by using a contact form that is clear and accessible. The website aims to be transparent showing the prices of artworks and ceramics. The main goal of the website is to sell the creations of the artists, whilst generates an online presence that also builds trust among potential customers or followers on social media pages.
 
 ---
@@ -33,11 +33,11 @@ The website aims to allow customer/s to get in touch with the artists by using a
 ### User Stories
 * First Time Visitors goals:
 1. As a First Time Visitor of the website, I want to learn more about the artists, their mission and what they do.
-2. As a First Time Visitor, I expect to navigate the website easily and smoothly in order to find the informations I need.
+2. As a First Time Visitor, I expect to navigate the website easily and smoothly in order to find the information I need.
 3. As a First Time Visitor, I want to explore the artists' gallery of artworks and prices so I can decide if it is a company I can do business with. 
 * Returning Visitors goals:
 1. As a Returning Visitor, I want to get in contact with the artists to buy their artworks.
-2. As a Returning Visitor, I want to request a presonalized and unique product.
+2. As a Returning Visitor, I want to request a personalized and unique product.
 3. As a Returning Visitor, I want to locate their Social Media links and gain a deeper understanding of their activities.
 * Frequent Visitors goals:
 1. As a Frequent Visitor, I want to view new creations, new ceramic series or a new collection.
@@ -54,7 +54,7 @@ The business goals of this website in order of importance are:
 1. Create an online presence for the two local artists and increase consumer awareness.
 2. Allow potential clients to buy the artworks via a contact form.
 3. Create new opportunities of collaboration with designers and other artists.
-4. Showcase the artists' CV and porfolio to build consumer trust.
+4. Showcase the artists' CV and portfolio to build consumer trust.
 5. Increase number of followers on the artists Social Media Pages.
 
 The customers goals of this website are:
@@ -110,7 +110,7 @@ The images have been carefully selected to be eye-catching, appealing and compel
 * On every page is present a call to action button which leads the user to the next step and section.
 * On the "Landing page" is present a promotional video of the artists in their studio. It keeps the users engaged and invites them to look through the website's contents.
 * On the "About Us" section is provided a downloadable PDF version of the artists' CV/portfolio that gets opened in another tab.
-* On the "Gallery page" is present a preview of the artworks, if clicked opens a fancybox viewer which can enlarge and zoom the image and allows to move back and forward throught the images.
+* On the "Gallery page" is present a preview of the artworks, if clicked opens a Fancybox viewer which can enlarge and zoom the image and allows to move back and forward through the images.
 * On the "Contact page" is present a form which allows users to get in touch with the artists uploading images or files together with their request message.
 
 ### Features to add in future
@@ -126,7 +126,7 @@ The images have been carefully selected to be eye-catching, appealing and compel
 
 ### Frameworks, Libraries and Programs Used
 1. [BootstrapCDN](https://getbootstrap.com/docs/4.0/getting-started/download/#bootstrapcdn) : was used to provide responsiveness on all device sizes and add some stylistic components.
-2. [Hover.css](https://ianlunn.github.io/Hover/) : was used to add the transition effect to Social Media Links in the footer and to the navbar's text. 
+2. [Hover.css](https://ianlunn.github.io/Hover/) : a third part library used to add the transition effect to Social Media Links in the footer and to the navbar text. 
 3. [FontAwesome](https://fontawesome.com/) : was used to add icons for Social Media links.
 4. [Google Fonts](https://fonts.google.com/) : was used to import typography fonts.
 5. [Balsamiq](https://balsamiq.com/) : was used to create wireframes during the design of the layout.
@@ -138,3 +138,15 @@ The images have been carefully selected to be eye-catching, appealing and compel
 11. [Git](https://git-scm.com/) : was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub.
 12. [GitHub](https://github.com/) : is a hosting platform used to deploy and store the project code after being pushed from Git.
 ---
+## Testing
+### Bugs and challenges during the project
+---
+## Deployment
+---
+## Credits
+### Resources Used
+### Code
+### Content
+### Media
+---
+## Acknowledgements
