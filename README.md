@@ -3,17 +3,19 @@
 
 ## Clay Impressions
 
-[View the live project in GitHub Pages](https://github.com/Marta44/topress2019)
+[View the live project in GitHub Pages]()
 ![Image]()
 
 ### Overview
 
-This is a user-centric static website for Elisabetta Schiavini and Sabrina Cardani, two ceramic artists based in Italy. As the artists are Italian, the website has both an English and Italian version.
+This is a user-centric static website for Elisabetta Schiavini and Sabrina Cardani, two ceramic artists based in Italy.
+As the artists are Italian, the website has both an English and Italian version.
 It is designed to be responsive on all devices (desktop screens, tablets and smartphones). 
 Their ceramics and artworks are not expensive, their products are accessible to everyone. What separates *To Press* products from their competitors is that they are tailored to the customers specifics needs. 
-I will not be adopting a B2C strategy for this website. A B2C website aims to trigger the customer to make an impulsive purchase using a three steps rule of thumb. I have decided this is not appropriate for this artistic project. 
+I will not be adopting a B2C strategy for this website. A B2C website aims to trigger the customer to make an impulsive purchase using a three steps rule of thumb. I have decided this is not appropriate for this artistic project. The businness goal is to establish an individual relationship with the client diversifying its offer. This increases customer satisfation. The client buying an exclusive and unique product feels to be important and special.
 The website aims to allow customer/s to get in touch with the artists by using a contact form that is clear and accessible. The website aims to be transparent showing the prices of artworks and ceramics. The main goal of the website is to sell the creations of the artists, whilst generates an online presence that also builds trust among potential customers or followers on social media pages.
 
+---
 ## User Experience (UX)
 
 #### Visitors of this website are looking for:
@@ -68,10 +70,9 @@ Following a Minimal Viable Product (MVP) scheme this website wants to accomplish
 * Respect users expectations and confidence.
 
 ## Structure
-In the 'About Us' section is provided a downloadable PDF version of the artists' CV/portfolio that gets opened in another tab.
+The information is organized to offer an intuitive interaction to the users.
 The paragraphs with contents and information are not too dense and packed.
-The structure will be simple and linear. This will allow the users to navigate themselves to the 'Contact us' page keeping their attention with a good UX design. 
-The footer is constant through the pages and offers links to the artists' Social Media Pages.
+The structure is simple and follows a linear narrative. This allows the users to navigate themselves to the 'Contact us' page keeping their attention with a good UX design.
 
 ## Skeleton
 - [Landing Page wireframe]()
@@ -107,15 +108,16 @@ The images have been carefully selected to be eye-catching, appealing and compel
 * On every page is present a header navigation bar, fixed and centered, that allows the user to navigate easily through the different sections.
 * On every page is present a fixed footer, which provides business copyright info and social media pages icons, if clicked it brings the user to social media platforms opened on a different tab.
 * On every page is present a call to action button which leads the user to the next step and section.
-* On the landing page is present a promotional video of the artists in their studio. It keeps the users engaged and invites them to look through the website's contents.
-* On the gallery page is present a preview of the artworks, if clicked opens a fancybox viewer which can enlarge and zoom the image and allows to move back and forward throught the images.
-* On the contact page is present a form which allows users to get in touch with the artists uploading images or files together with their request message.
+* On the "Landing page" is present a promotional video of the artists in their studio. It keeps the users engaged and invites them to look through the website's contents.
+* On the "About Us" section is provided a downloadable PDF version of the artists' CV/portfolio that gets opened in another tab.
+* On the "Gallery page" is present a preview of the artworks, if clicked opens a fancybox viewer which can enlarge and zoom the image and allows to move back and forward throught the images.
+* On the "Contact page" is present a form which allows users to get in touch with the artists uploading images or files together with their request message.
 
 ### Features to add in future
-* The contact form submission button has to be functional when pressed and provide a feedback to the users (Javascript needed).
+* The contact form submission button has to be functional when pressed and provide a feedback to the users to make them feel assured(Javascript needed).
 * Add CAPTCHA, a challenge-response authentication, to the contact form to block spammers and bots (Javascript needed).
 * Add General Data Protection Regulation (GDPR), which protects the Privacy Policy of European Union residents (Javascript needed).
-* Add "Art and ceramic lessons" page. This is a further opportunity for the artists to gain a different income but they need time to organize this activity and feature its programme.
+* Add "Art and ceramic lessons" page. This is a further opportunity for the artists to gain a different income but they need time to organize this activity and to feature its programme.
 ---
 ## Technologies Used
 ### Languages Used
@@ -131,7 +133,7 @@ The images have been carefully selected to be eye-catching, appealing and compel
 6. [jQuery](https://jquery.com/) : was used to make the navbar responsive.
 7. [Popper.js](https://popper.js.org/) : was used to make the navbar responsive.
 8. [AutoPrefixer](https://autoprefixer.github.io/) : was used to analyse the CSS code and make it suitable for all browsers.
-9. [fancybox](https://fancyapps.com/fancybox/3/) : was used in the "Gallery" page to view and browse images easily.
+9. [Fancybox](https://fancyapps.com/fancybox/3/) : was used in the "Gallery" page to view and browse images easily.
 10. [Gitpod](https://gitpod.io/) : is the open-source IDE (Integrated Development Environment) that I used to create my project.
 11. [Git](https://git-scm.com/) : was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub.
 12. [GitHub](https://github.com/) : is a hosting platform used to deploy and store the project code after being pushed from Git.
