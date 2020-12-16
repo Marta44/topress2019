@@ -75,11 +75,11 @@ The paragraphs with contents and information are not too dense and packed.
 The structure is simple and follows a linear narrative. This allows the users to navigate themselves to the 'Contact us' page keeping their attention with a good UX design.
 
 ## Skeleton
-- [Landing Page wireframe]()
-- [About Us Page wireframe]()
-- [Gallery Page wireframe]()
-- [Art Lessons Page wireframe]()
-- [Contact Us Page wireframe]()
+- [Landing Page wireframe](/workspace/topress2019/assets/wireframes/1-Home.png)
+- [About Us Page wireframe](/workspace/topress2019/assets/wireframes/2-About.png)
+- [Gallery Page wireframe](/workspace/topress2019/assets/wireframes/3-Gallery.png)
+- [Customize your product Page wireframe](/workspace/topress2019/assets/wireframes/4-Customize.png)
+- [Contact Us Page wireframe](/workspace/topress2019/assets/wireframes/5-Contact.png)
 
 ## Surface
 **Design Scheme**
@@ -135,7 +135,7 @@ The images have been carefully selected to be eye-catching, appealing and compel
 8. [AutoPrefixer](https://autoprefixer.github.io/) : was used to analyse the CSS code and make it suitable for all browsers.
 9. [Fancybox](https://fancyapps.com/fancybox/3/) : was used in the "Gallery" page to view and browse images easily.
 10. [Gitpod](https://gitpod.io/) : is the open-source IDE (Integrated Development Environment) that I used to create my project.
-11. [Git](https://git-scm.com/) : was used for version control by utilizing the Gitpod terminal to commit to Git and push to GitHub.
+11. [Git](https://git-scm.com/) : was used for version control by utilizing the Gitpod terminal (CLI) to commit to Git and push to GitHub.
 12. [GitHub](https://github.com/) : is a hosting platform used to deploy and store the project code after being pushed from Git.
 ---
 ## Testing
